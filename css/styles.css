@@ -1,0 +1,94 @@
+body{
+    background-color: beige;
+}
+#inicioPerfil{
+    
+    text-align: center;
+}
+#descripcion{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin-top: 85px;
+    text-align: center;
+}
+#infoDiego{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin-top: 85px;
+    text-align: center;
+}
+.imageLogo {
+    text-align: center;
+}
+.imageLogo img {
+    height: auto;
+    width: 100px;
+}
+
+h1, h2 {
+    background-color: #b1701b;
+    color: #c5d9e1;
+    letter-spacing: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 0;
+    
+}
+
+h3{
+    text-align: left;
+    font-size: 25px;
+}
+
+#space {
+    height: 100px;
+}
+
+h2 {
+    padding: 5px 0;
+}
+
+ul li{
+    line-height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+p{
+    margin-left: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.space-left{
+    margin-left: 105px;
+}
+
+footer {
+    background-color: #b1701b;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+
+footer p {
+    display: inline-block;
+}
+
+footer a {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+footer a img {
+    width: 20px;
+}
+
+.foot {
+    margin-right: 10px;
+  }
